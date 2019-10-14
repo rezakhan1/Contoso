@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html ng-app="contosoApp">
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <link href="Content/angular-toastr.css" rel="stylesheet" />
+    <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+</head>
+<body ng-controller="StudentController">
+
+    <a ui-sref="home"> Home </a>
+    <a ui-sref="studentForm"> Student Form </a>
+    <a ui-sref="studentList"> Student List </a>
+
+    <div ui-view="subview"></div>
+ 
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/angular-resource.js"></script>
+    <script src="Scripts/angular-ui-router.js"></script>
+    <script src="Scripts/angular-toastr.tpls.js"></script>
+    <script src="contoso.js"></script>
+    <script src="router.js"></script>
+    <script src="StudentController.js"></script>
+    <script src="uploadPhoto.js"></script>
+    <script src="dirPagination.js"></script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Data\bin\Release\Contoso.Data.dll.config
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Data\bin\Release\Contoso.Data.dll
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Data\bin\Release\Contoso.Data.pdb
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Data\bin\Release\Contoso.Domain.dll
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Data\bin\Release\EntityFramework.dll
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Data\bin\Release\Contoso.Domain.pdb
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Data\bin\Release\EntityFramework.xml
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Data\obj\Release\Contoso.Data.dll
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Data\obj\Release\Contoso.Data.pdb
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Data\obj\Release\Contoso.Data.csprojAssemblyReference.cache
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Data\obj\Release\Contoso.Data.Migrations.ContosoMigration.resources
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Data\obj\Release\Contoso.Data.csproj.GenerateResource.cache
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Data\obj\Release\Contoso.Data.csproj.CoreCompileInputs.cache
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Data\obj\Release\Contoso.Data.csproj.CopyComplete

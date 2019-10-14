@@ -1,0 +1,16 @@
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Domain\bin\Debug\Contoso.Domain.dll
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Domain\bin\Debug\Contoso.Domain.pdb
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Domain\obj\Debug\Contoso.Domain.dll
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Domain\obj\Debug\Contoso.Domain.pdb
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Domain\obj\Debug\Contoso.Domain.csprojAssemblyReference.cache
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Domain\obj\Debug\Contoso.Domain.csproj.CoreCompileInputs.cache
+E:\Reza_WorkMaterial\[FreeCourseLab.com] Udemy - asp.net web api and angularjs development to deployment\15. Deployment\Full solution for exercise\ContosoApp\Contoso.Domain\bin\Debug\Contoso.Domain.dll
+E:\Reza_WorkMaterial\[FreeCourseLab.com] Udemy - asp.net web api and angularjs development to deployment\15. Deployment\Full solution for exercise\ContosoApp\Contoso.Domain\bin\Debug\Contoso.Domain.pdb
+E:\Reza_WorkMaterial\[FreeCourseLab.com] Udemy - asp.net web api and angularjs development to deployment\15. Deployment\Full solution for exercise\ContosoApp\Contoso.Domain\obj\Debug\Contoso.Domain.csprojResolveAssemblyReference.cache
+E:\Reza_WorkMaterial\[FreeCourseLab.com] Udemy - asp.net web api and angularjs development to deployment\15. Deployment\Full solution for exercise\ContosoApp\Contoso.Domain\obj\Debug\Contoso.Domain.dll
+E:\Reza_WorkMaterial\[FreeCourseLab.com] Udemy - asp.net web api and angularjs development to deployment\15. Deployment\Full solution for exercise\ContosoApp\Contoso.Domain\obj\Debug\Contoso.Domain.pdb
+C:\Users\ASUS\Desktop\Full solution for exercise\ContosoApp\Contoso.Domain\bin\Debug\Contoso.Domain.dll
+C:\Users\ASUS\Desktop\Full solution for exercise\ContosoApp\Contoso.Domain\bin\Debug\Contoso.Domain.pdb
+C:\Users\ASUS\Desktop\Full solution for exercise\ContosoApp\Contoso.Domain\obj\Debug\Contoso.Domain.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Full solution for exercise\ContosoApp\Contoso.Domain\obj\Debug\Contoso.Domain.dll
+C:\Users\ASUS\Desktop\Full solution for exercise\ContosoApp\Contoso.Domain\obj\Debug\Contoso.Domain.pdb

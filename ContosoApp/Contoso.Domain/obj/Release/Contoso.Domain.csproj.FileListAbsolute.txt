@@ -1,0 +1,6 @@
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Domain\bin\Release\Contoso.Domain.dll
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Domain\bin\Release\Contoso.Domain.pdb
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Domain\obj\Release\Contoso.Domain.dll
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Domain\obj\Release\Contoso.Domain.pdb
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Domain\obj\Release\Contoso.Domain.csprojAssemblyReference.cache
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Domain\obj\Release\Contoso.Domain.csproj.CoreCompileInputs.cache

@@ -1,0 +1,50 @@
+﻿<form>
+    <h3> Student Form </h3>
+    <div class="form-group">
+        <label for="first-name"> First Name </label>
+        <input type="text" class="form-control" id="first-name" ng-model="student.FirstName" placeholder="First name">
+    </div>
+
+    <div class="form-group">
+        <label for="last-name"> Last Name </label>
+        <input type="text" class="form-control" id="last-name" ng-model="student.LastName" placeholder="Last name">
+    </div>
+
+    <div class="form-group">
+        <label for="roll"> Roll </label>
+        <input type="text" class="form-control" id="roll" ng-model="student.Roll" placeholder="Roll">
+    </div>
+
+    <div class="form-group">
+        <label for="department"> Department </label>
+        <input type="text" class="form-control" id="department" ng-model="student.Department" placeholder="Department">
+    </div>
+
+    <div class="form-group">
+        <label for="department"> Photo </label>
+        <input type="file" contoso-files="getTheStudentPhoto($files)" onchange="imagePreview(event)" class="form-control" placeholder="Department">
+    </div>
+
+    <div class="form-group">
+        <label class="col-lg-3 control-label"></label>
+        <div class="col-lg-9">
+            <img id="photo" height="100" width="100" />
+        </div>
+    </div>
+
+
+    <button type="button" class="btn btn-primary" ng-click="saveStudent(student)">Submit</button>
+</form>
+
+<script>
+
+    function imagePreview(event) {
+        var fileReader = new FileReader();
+        fileReader.onload = function () {
+            var photo = document.getElementById('photo');
+            photo.src = fileReader.result;
+        }
+
+        fileReader.readAsDataURL(event.target.files[0]);
+    }
+</script>

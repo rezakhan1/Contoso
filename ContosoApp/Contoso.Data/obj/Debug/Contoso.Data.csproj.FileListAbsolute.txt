@@ -1,0 +1,44 @@
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Data\bin\Debug\Contoso.Data.dll.config
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Data\bin\Debug\Contoso.Data.dll
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Data\bin\Debug\Contoso.Data.pdb
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Data\bin\Debug\Contoso.Domain.dll
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Data\bin\Debug\EntityFramework.dll
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Data\bin\Debug\Contoso.Domain.pdb
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Data\bin\Debug\EntityFramework.xml
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Data\obj\Debug\Contoso.Data.dll
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Data\obj\Debug\Contoso.Data.pdb
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Data\obj\Debug\Contoso.Data.csprojAssemblyReference.cache
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Data\obj\Debug\Contoso.Data.csproj.CoreCompileInputs.cache
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Data\obj\Debug\Contoso.Data.csproj.CopyComplete
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Data\obj\Debug\Contoso.Data.Migrations.ContosoMigration.resources
+C:\Users\lutfor.rahman\Desktop\asp.net web api and angularjs development to deployment\ContosoApp\Contoso.Data\obj\Debug\Contoso.Data.csproj.GenerateResource.cache
+E:\Reza_WorkMaterial\[FreeCourseLab.com] Udemy - asp.net web api and angularjs development to deployment\15. Deployment\Full solution for exercise\ContosoApp\Contoso.Data\bin\Debug\Contoso.Data.dll.config
+E:\Reza_WorkMaterial\[FreeCourseLab.com] Udemy - asp.net web api and angularjs development to deployment\15. Deployment\Full solution for exercise\ContosoApp\Contoso.Data\bin\Debug\Contoso.Data.dll
+E:\Reza_WorkMaterial\[FreeCourseLab.com] Udemy - asp.net web api and angularjs development to deployment\15. Deployment\Full solution for exercise\ContosoApp\Contoso.Data\bin\Debug\Contoso.Data.pdb
+E:\Reza_WorkMaterial\[FreeCourseLab.com] Udemy - asp.net web api and angularjs development to deployment\15. Deployment\Full solution for exercise\ContosoApp\Contoso.Data\bin\Debug\Contoso.Domain.dll
+E:\Reza_WorkMaterial\[FreeCourseLab.com] Udemy - asp.net web api and angularjs development to deployment\15. Deployment\Full solution for exercise\ContosoApp\Contoso.Data\bin\Debug\EntityFramework.dll
+E:\Reza_WorkMaterial\[FreeCourseLab.com] Udemy - asp.net web api and angularjs development to deployment\15. Deployment\Full solution for exercise\ContosoApp\Contoso.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Reza_WorkMaterial\[FreeCourseLab.com] Udemy - asp.net web api and angularjs development to deployment\15. Deployment\Full solution for exercise\ContosoApp\Contoso.Data\bin\Debug\Contoso.Domain.pdb
+E:\Reza_WorkMaterial\[FreeCourseLab.com] Udemy - asp.net web api and angularjs development to deployment\15. Deployment\Full solution for exercise\ContosoApp\Contoso.Data\bin\Debug\EntityFramework.xml
+E:\Reza_WorkMaterial\[FreeCourseLab.com] Udemy - asp.net web api and angularjs development to deployment\15. Deployment\Full solution for exercise\ContosoApp\Contoso.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Reza_WorkMaterial\[FreeCourseLab.com] Udemy - asp.net web api and angularjs development to deployment\15. Deployment\Full solution for exercise\ContosoApp\Contoso.Data\obj\Debug\Contoso.Data.csprojResolveAssemblyReference.cache
+E:\Reza_WorkMaterial\[FreeCourseLab.com] Udemy - asp.net web api and angularjs development to deployment\15. Deployment\Full solution for exercise\ContosoApp\Contoso.Data\obj\Debug\Contoso.Data.Migrations.ContosoMigration.resources
+E:\Reza_WorkMaterial\[FreeCourseLab.com] Udemy - asp.net web api and angularjs development to deployment\15. Deployment\Full solution for exercise\ContosoApp\Contoso.Data\obj\Debug\Contoso.Data.csproj.GenerateResource.Cache
+E:\Reza_WorkMaterial\[FreeCourseLab.com] Udemy - asp.net web api and angularjs development to deployment\15. Deployment\Full solution for exercise\ContosoApp\Contoso.Data\obj\Debug\Contoso.Data.dll
+E:\Reza_WorkMaterial\[FreeCourseLab.com] Udemy - asp.net web api and angularjs development to deployment\15. Deployment\Full solution for exercise\ContosoApp\Contoso.Data\obj\Debug\Contoso.Data.pdb
+C:\Users\ASUS\Desktop\Full solution for exercise\ContosoApp\Contoso.Data\bin\Debug\Contoso.Data.dll.config
+C:\Users\ASUS\Desktop\Full solution for exercise\ContosoApp\Contoso.Data\bin\Debug\Contoso.Data.dll
+C:\Users\ASUS\Desktop\Full solution for exercise\ContosoApp\Contoso.Data\bin\Debug\Contoso.Data.pdb
+C:\Users\ASUS\Desktop\Full solution for exercise\ContosoApp\Contoso.Data\bin\Debug\Contoso.Domain.dll
+C:\Users\ASUS\Desktop\Full solution for exercise\ContosoApp\Contoso.Data\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\Full solution for exercise\ContosoApp\Contoso.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\Full solution for exercise\ContosoApp\Contoso.Data\bin\Debug\Contoso.Domain.pdb
+C:\Users\ASUS\Desktop\Full solution for exercise\ContosoApp\Contoso.Data\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\Full solution for exercise\ContosoApp\Contoso.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\Full solution for exercise\ContosoApp\Contoso.Data\obj\Debug\Contoso.Data.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Full solution for exercise\ContosoApp\Contoso.Data\obj\Debug\Contoso.Data.Migrations.ContosoMigration.resources
+C:\Users\ASUS\Desktop\Full solution for exercise\ContosoApp\Contoso.Data\obj\Debug\Contoso.Data.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Full solution for exercise\ContosoApp\Contoso.Data\obj\Debug\Contoso.Data.dll
+C:\Users\ASUS\Desktop\Full solution for exercise\ContosoApp\Contoso.Data\obj\Debug\Contoso.Data.pdb
